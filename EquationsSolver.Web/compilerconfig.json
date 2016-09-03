@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "app/index.js",
+    "inputFile": "app/index.jsx"
+  },
+  {
+    "outputFile": "app/equationComponent.js",
+    "inputFile": "app/equationComponent.jsx"
+  }
+]
