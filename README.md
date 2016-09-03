@@ -37,15 +37,14 @@ All the optional prerequisites mentioned above must be met
 
 ## Client
 1. open a command line tool (cmd.exe), go to the project directory /EquationSolver.Web
-2. restore npm packages```
-npm install
-```
+2. restore npm packages - npm install
+3. start webpack dev server - npm run start
+4. Website will be available on localhost:8080
 
-3. start webpack dev server```
+```
+npm install
 npm run start 
 ```
-
-4. Website will be available on localhost:8080
 
 ## Tech Stack 
 
