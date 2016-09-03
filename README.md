@@ -30,12 +30,12 @@ If the post is already taken, it can be changed in the server/app.config. It als
 
 All the optional prerequisites mentioned above must be met
 
-## Server
+* Server
 1. Open the solution in VS2015
 2. Restore the nuget packages
 3. Run EquationSolver.WebApi in debug mode
 
-## Client
+* Client
 1. open a command line tool (cmd.exe), go to the project directory /EquationSolver.Web
 2. restore npm packages - npm install
 3. start webpack dev server - npm run start
@@ -45,6 +45,9 @@ All the optional prerequisites mentioned above must be met
 npm install
 npm run start 
 ```
+
+![Capture.PNG](https://bitbucket.org/repo/6LeLqA/images/2453946028-Capture.PNG)
+
 
 ## Tech Stack 
 
