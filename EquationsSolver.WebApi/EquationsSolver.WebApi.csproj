@@ -127,7 +127,6 @@
     <Compile Include="Config\NinjectModuleConfig.cs" />
     <Compile Include="Infrastructure\NancyCorsExtension.cs" />
     <Compile Include="Infrastructure\NinjectNancyAppBootstrapper.cs" />
-    <Compile Include="Modules\HomeModule.cs" />
     <Compile Include="Modules\EquationModule.cs" />
     <Compile Include="Modules\EquationViewModels.cs" />
     <Compile Include="Program.cs" />

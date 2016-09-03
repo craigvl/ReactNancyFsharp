@@ -16,3 +16,5 @@ EquationsCore/obj/
 EquationsSolver/.vs/
 EquationsCore/EquationsCore/obj/
 EquationsSolver.WebApi/.vs/
+.vs/EquationsSolver/v14/.suo
+.vs/config/applicationhost.config
