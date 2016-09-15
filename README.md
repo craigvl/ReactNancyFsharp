@@ -83,7 +83,3 @@ The choice to use ReactJS has just been made arbitrarily - I always wanted to *e
 # Testing (does it work?)
 
 Most of the tests covers the F# equation helper and a few the wrapping service, as they are the most critical part of the system.
-
-## Conclusion
-
-The assessment instructions allowed for a lot of freedom, as they weren't too specific on what to build and how. I really appreciated this, and I take it as an opportunity to include some techs (and learn!) that I am not really comfortable with in it. As the result the time spend on this project has been about 6 hours, spend mostly in research, learning, configuration, ... writing code and tests took me about 2-3 hours. If it was a time trial, I would definitively have picked the same library for resolving equation and MVC for the front-end. But all in all, I had a lot of fun, especially with F# and React :).
