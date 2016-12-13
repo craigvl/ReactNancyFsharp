@@ -2,7 +2,6 @@
 
 ## Content
 
-* Source code of the proposed solution to the assessment problem.
 * Executable for the WebServer (OWIN Self-Host) & Website
 
 ## Prerequisites
